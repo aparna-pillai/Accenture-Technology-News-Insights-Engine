@@ -1,5 +1,8 @@
 # Technology-News-Insights-Engine
 
+Accenture Technology News Insights Engine (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Accenture for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! 
+Link: https://github.com/aparna-pillai/Technology-News-Insights-Engine 
+
 1. Project Title and Description
 Purpose: Introduce your project with more than just a brief summary. This section should provide a clear and comprehensive overview of the project's purpose, methods, and outcomes.
 Suggested Content:
