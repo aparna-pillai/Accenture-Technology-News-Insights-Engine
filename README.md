@@ -33,10 +33,10 @@ Suggested Content: Code snippets, example commands, or screenshots that show the
 Purpose: Guidelines for developers who want to contribute to the project.
 Suggested Content: Information on pull requests, issue tracking, coding guidelines, and links to a separate contributing guide.
 
-6. License
-Purpose: State the licensing under which the project is released.
-Suggested Content: A short statement about the license, typically linking to the full license file.
+6. License: Apache License 2.0
+The Apache License 2.0 aims to provide a permissive framework for using, modifying, and distributing software while protecting contributors through clear patent and liability terms.
+https://github.com/aparna-pillai/Technology-News-Insights-Engine?tab=Apache-2.0-1-ov-file#readme 
 
-7. Credits and Acknowledgments
+8. Credits and Acknowledgments
 Purpose: Acknowledge contributors or tools used in the project.
 Suggested Content: List of team members, advisors, supporters; also libraries or third-party services used in the project.
