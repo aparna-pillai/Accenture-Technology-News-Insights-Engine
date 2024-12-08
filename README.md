@@ -5,6 +5,10 @@ Link: https://github.com/aparna-pillai/Technology-News-Insights-Engine
 
 1. **Project Title and Description**
 
+  Title
+
+  Technology News Insights Engine
+  
   Objective
   
   Analyze technology news data to identify trends and drive lead development
@@ -50,15 +54,15 @@ Suggested Content: Step-by-step instructions with commands, prerequisites, and e
 Purpose: Explain how to use the project or software.
 Suggested Content: Code snippets, example commands, or screenshots that show the project in action.
 
-5. **Contributing**
-Purpose: Guidelines for developers who want to contribute to the project.
-Suggested Content: Information on pull requests, issue tracking, coding guidelines, and links to a separate contributing guide.
-
-6. **License:** Apache License 2.0
+5. **License:** Apache License 2.0
    
 The Apache License 2.0 aims to provide a permissive framework for using, modifying, and distributing software while protecting contributors through clear patent and liability terms.
-https://github.com/aparna-pillai/Technology-News-Insights-Engine?tab=Apache-2.0-1-ov-file#readme 
+https://github.com/aparna-pillai/Technology-News-Insight6s-Engine?tab=Apache-2.0-1-ov-file#readme 
 
-8. **Credits and Acknowledgments**
-Purpose: Acknowledge contributors or tools used in the project.
+6. **Credits and Acknowledgments**
+Team Members
+
+Aparna Pillai, Manisha Palaniappan, Charu Yuvaraja, Jubyaid Uddin, Nomin Ganzoring
+
+
 Suggested Content: List of team members, advisors, supporters; also libraries or third-party services used in the project.
