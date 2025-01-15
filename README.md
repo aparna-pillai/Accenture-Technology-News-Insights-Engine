@@ -7,7 +7,7 @@ Discover the project repository for the real-world machine learning project deve
 
 GitHub Repository: https://github.com/aparna-pillai/Technology-News-Insights-Engine 
 
-1. **Project Overview**
+**Project Overview**
   
   Key Highlights
 
@@ -27,18 +27,18 @@ GitHub Repository: https://github.com/aparna-pillai/Technology-News-Insights-Eng
       - Visualizations: Clear graphical representations to highlight key trends and patterns in the technology sector.
 
 
-4. **Usage**
+**Usage**
    
 For a detailed walkthrough of our project: https://docs.google.com/presentation/d/196zHW4hv4yPjmfOAB-vEZhxf3ZOG5hHbv29qUpjp2bk/edit?usp=sharing
 
 To test the functionality: Run the Industry_Specific_Queries.ipynb notebook using Google Colab.
 
-6. **License:** Apache License 2.0
+**License:** Apache License 2.0
    
 The Apache License 2.0 aims to provide a permissive framework for using, modifying, and distributing software while protecting contributors through clear patent and liability terms.
 https://github.com/aparna-pillai/Technology-News-Insight6s-Engine?tab=Apache-2.0-1-ov-file#readme 
 
-6. **Credits and Acknowledgments**
+**Credits and Acknowledgments**
    
 Team Members: Aparna Pillai, Manisha Palaniappan, Charu Yuvaraja, Jubyaid Uddin, Nomin Ganzoring
 
