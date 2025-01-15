@@ -1,6 +1,7 @@
 # Technology-News-Insights-Engine
 
 Accenture Technology News Insights Engine
+
 Break Through Tech AI Program (Fall 2024 AI Studio)
 
 Discover the project repository for the real-world machine learning project developed by our team in collaboration with Accenture over three months as part of the Break Through Tech AI Program's Fall 2024 AI Studio.
