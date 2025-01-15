@@ -4,7 +4,7 @@ Break Through Tech AI Program (Fall 2024 AI Studio)
 
 Discover the project repository for the real-world machine learning project developed by our team in collaboration with Accenture over four months as part of the Break Through Tech AI Program's Fall 2024 AI Studio.
 
-GitHub Repository: https://github.com/aparna-pillai/Technology-News-Insights-Engine 
+GitHub Repository: https://github.com/aparna-pillai/Accenture-Technology-News-Insights-Engine  
 
 **Project Overview**
   
