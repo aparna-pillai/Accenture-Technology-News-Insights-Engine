@@ -1,6 +1,4 @@
-# Technology-News-Insights-Engine
-
-Accenture Technology News Insights Engine
+# Accenture-Technology-News-Insights-Engine
 
 Break Through Tech AI Program (Fall 2024 AI Studio)
 
