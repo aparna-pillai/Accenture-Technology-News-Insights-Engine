@@ -10,14 +10,12 @@ GitHub Repository: https://github.com/aparna-pillai/Technology-News-Insights-Eng
 1. **Project Overview**
   
   Objective
-  
   - Analyze technology news data to identify trends and drive lead development
 
   Key Highlights
   
     Approach Evolution
       - Transitioned from traditional data processing workflows (NLP, LLMs, Retrieval-Augmented Generation) to utilizing a pre-populated knowledge graph for deeper data insights.
-Shifted focus from raw data handling to data analysis and actionable insights.
 
     Key Activities
       - Insight Extraction: Leveraged a knowledge graph constructed from technology news articles to uncover trends and connections.
